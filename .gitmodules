@@ -1,0 +1,27 @@
+[submodule "Automated-Algorithm---Classification-of-Structural-Pattern-of-RNA-protein-Interaction"]
+	path = Automated-Algorithm---Classification-of-Structural-Pattern-of-RNA-protein-Interaction
+	url = https://github.com/C3DSP/Automated-Algorithm---Classification-of-Structural-Pattern-of-RNA-protein-Interaction.git
+[submodule "Automated-Algorithm---Retrieval-of-PDB-Files-from-the-RCSB-Protein-Data-Bank-Set-5"]
+	path = Automated-Algorithm---Retrieval-of-PDB-Files-from-the-RCSB-Protein-Data-Bank-Set-5
+	url = https://github.com/C3DSP/Automated-Algorithm---Retrieval-of-PDB-Files-from-the-RCSB-Protein-Data-Bank-Set-5.git
+[submodule "Automated-Algorithm---Retrieval-of-PDB-Files-from-the-RCSB-Protein-Data-Bank-Set-4"]
+	path = Automated-Algorithm---Retrieval-of-PDB-Files-from-the-RCSB-Protein-Data-Bank-Set-4
+	url = https://github.com/C3DSP/Automated-Algorithm---Retrieval-of-PDB-Files-from-the-RCSB-Protein-Data-Bank-Set-4.git
+[submodule "Automated-Algorithm---Retrieval-of-PDB-Files-from-the-RCSB-Protein-Data-Bank-Set-3"]
+	path = Automated-Algorithm---Retrieval-of-PDB-Files-from-the-RCSB-Protein-Data-Bank-Set-3
+	url = https://github.com/C3DSP/Automated-Algorithm---Retrieval-of-PDB-Files-from-the-RCSB-Protein-Data-Bank-Set-3.git
+[submodule "Automated-Algorithm---Retrieval-of-PDB-Files-from-the-RCSB-Protein-Data-Bank-Set-2"]
+	path = Automated-Algorithm---Retrieval-of-PDB-Files-from-the-RCSB-Protein-Data-Bank-Set-2
+	url = https://github.com/C3DSP/Automated-Algorithm---Retrieval-of-PDB-Files-from-the-RCSB-Protein-Data-Bank-Set-2.git
+[submodule "Automated-Algorithm---Retrieval-of-PDB-Files-from-the-RCSB-Protein-Data-Bank-Set-1"]
+	path = Automated-Algorithm---Retrieval-of-PDB-Files-from-the-RCSB-Protein-Data-Bank-Set-1
+	url = https://github.com/C3DSP/Automated-Algorithm---Retrieval-of-PDB-Files-from-the-RCSB-Protein-Data-Bank-Set-1.git
+[submodule "Manual-Curated-Dataset---Superimposed-3D-Structural-Patterns-of-the-RNA-protein-Complexes"]
+	path = Manual-Curated-Dataset---Superimposed-3D-Structural-Patterns-of-the-RNA-protein-Complexes
+	url = https://github.com/C3DSP/Manual-Curated-Dataset---Superimposed-3D-Structural-Patterns-of-the-RNA-protein-Complexes.git
+[submodule "Manual-Curated-Dataset---Validation-of-the-Superimposed-3D-Structural-Patterns-using-PyMOL"]
+	path = Manual-Curated-Dataset---Validation-of-the-Superimposed-3D-Structural-Patterns-using-PyMOL
+	url = https://github.com/C3DSP/Manual-Curated-Dataset---Validation-of-the-Superimposed-3D-Structural-Patterns-using-PyMOL.git
+[submodule "Manual-Curated-Dataset---Extracted-3D-Structural-Pattern-of-RNA-protein-Interaction"]
+	path = Manual-Curated-Dataset---Extracted-3D-Structural-Pattern-of-RNA-protein-Interaction
+	url = https://github.com/C3DSP/Manual-Curated-Dataset---Extracted-3D-Structural-Pattern-of-RNA-protein-Interaction.git
